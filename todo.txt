@@ -1,0 +1,6 @@
+- make website immortal
+- central header
+- single page
+- lots of pictures
+- short about section
+- links for socials, contact, donations

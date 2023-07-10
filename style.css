@@ -1,0 +1,31 @@
+:root {
+    --text-color: #FFFFFF;
+    --background: #150C3F;
+    --navbar-background: #331D9A;
+    --accent: #B1A4EE;
+    --second-accent: #C4BAF2;
+    color-scheme: dark;
+    --text-font: "lato-light", "lato", sans-serif;
+}
+
+body {
+    color: var(--text-color);
+    background-color: var(--background);
+    font-family: var(--text-font);
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+#site-title {
+    margin: 3.5vh 50%;
+}
+
+#site-title a {
+    font-size: 1.25rem;
+}
