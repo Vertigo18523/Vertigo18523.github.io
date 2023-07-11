@@ -4,8 +4,9 @@
     --navbar-background: #331D9A;
     --accent: #B1A4EE;
     --second-accent: #C4BAF2;
-    color-scheme: dark;
+    --overlay: #1C105766;
     --text-font: "lato-light", "lato", sans-serif;
+    color-scheme: dark;
 }
 
 body {
@@ -22,10 +23,53 @@ body {
     flex-direction: column;
 }
 
-#site-title {
-    margin: 3.5vh 50%;
+#navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
 }
 
-#site-title a {
-    font-size: 1.25rem;
+a#title {
+    text-decoration: none;
+    color: var(--text-color);
+}
+
+a#title:hover {
+    color: var(--accent)
+}
+
+#overlay {
+    background-color: var(--overlay);
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 15vw;
+}
+
+h2 {
+    font-size: 7vw;
+    font-weight: bold;
+    margin: 0;
+}
+
+p {
+    font-size: 1.5vw;
+}
+
+img {
+    display: block;
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+}
+
+#team-photo {
+    position: relative;
 }
