@@ -1,3 +1,4 @@
-remote_theme: y7kim/agency-jekyll-theme
+remote_theme: pages-themes/cayman@v0.2.0
+# y7kim/agency-jekyll-theme
 plugins:
 - jekyll-remote-theme
