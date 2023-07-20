@@ -2,122 +2,41 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Vertigo Robotics
 
-[Link to another page](./another-page.html).
+![Team Photo](images/team-photo.jpg)
 
-There should be whitespace between paragraphs.
+## About us
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Vertigo (FTC 6287) was started in 2016 by two motivated roboteers who envisioned a team composed of the best of the best—a team that has the knowledge and skills to advance to the FTC World Championship and bring home a victory. Their idea spawned Vertigo and now, under new team number 18523, we are better than ever before.
 
-# Header 1
+Our team aims to design, build, and program a capable and innovative robot that is capable of completing this year’s challenge effectively and accurately. We achieve this by gathering supplies from generous donors, building the robot from GoBilda parts and other approved materials, and then coding the robot using Java to perform the needed functions for the year's competitions.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+But, we don't just build cool robots. We also thrive on the principle of giving back to the community. We have put in over one thousand hours of work into helping out other teams and spreading knowledge and interest in STEM. Overall, we aim to demonstrate our love and passion for robotics and the STEM community by enriching the lives of as many people as we can reach to expand the FIRST family.
 
-## Header 2
+## What is FIRST?
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+FIRST, short for “For Inspiration and Recognition of Science and Technology,” is a non-profit organization dedicated to fostering interest in science and technology for K-12 students. By participating in a new challenge every year through intense tournaments, students gain an in-depth understanding of engineering, programming, and community involvement.
 
-### Header 3
+## What is FTC?
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+FTC, an acronym for FIRST Tech Challenge, is a FIRST program designed for students in grades 7 - 12. Teams are faced with a new challenge each year, and must design a novel and creative solution to these challenges. Teams are given several months before their first match to design, build, and program a robot that can perform a specific set of tasks, such as moving and stacking foam blocks in a specific pattern, or autonomously detecting the color of an object.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Our mission
 
-#### Header 4
+We strive to bring FIRST to as many people as possible while having fun and building a cool robot in a great community.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Find us on social media
 
-##### Header 5
+- <https://www.tiktok.com/@vertigorobotics>
+- <https://www.instagram.com/vertigorobotics/>
+- <https://www.youtube.com/@vertigorobotics1943>
+- <https://github.com/vertigo18523>
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## Contact us
 
-###### Header 6
+- <outreach@vertigorobotics.org>
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+## Donate to Vertigo
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- 
