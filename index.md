@@ -6,6 +6,15 @@ layout: default
 
 ![Team Photo](images/team-photo.jpg)
 
+<div align="center">
+
+<a href="https://www.tiktok.com/@vertigorobotics"><img src="images/tiktok.png" alt="TikTok" width="30" height="30"></a>
+<a href="https://www.instagram.com/vertigorobotics/"><img src="images/instagram.png" alt="Instagram" width="30" height="30"></a>
+<a href="https://www.youtube.com/@vertigorobotics1943"><img src="images/youtube.png" alt="Youtube" width="30" height="30"></a>
+<a href="https://github.com/vertigo18523"><img src="images/github.png" alt="GitHub" width="30" height="30"></a>
+
+</div>
+
 ## About us
 
 Vertigo (FTC 6287) was started in 2016 by two motivated roboteers who envisioned a team composed of the best of the best—a team that has the knowledge and skills to advance to the FTC World Championship and bring home a victory. Their idea spawned Vertigo and now, under new team number 18523, we are better than ever before.
@@ -25,13 +34,6 @@ FTC, an acronym for FIRST Tech Challenge, is a FIRST program designed for studen
 ## Our mission
 
 We strive to bring FIRST to as many people as possible while having fun and building a cool robot in a great community.
-
-## Find us on social media
-
-- <https://www.tiktok.com/@vertigorobotics>
-- <https://www.instagram.com/vertigorobotics/>
-- <https://www.youtube.com/@vertigorobotics1943>
-- <https://github.com/vertigo18523>
 
 ## Contact us
 
