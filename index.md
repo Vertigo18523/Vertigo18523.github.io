@@ -8,10 +8,10 @@ layout: default
 
 <div align="center">
 
-<a href="https://www.tiktok.com/@vertigorobotics"><img src="images/tiktok.png" alt="TikTok" width="30" height="30"></a>
-<a href="https://www.instagram.com/vertigorobotics/"><img src="images/instagram.png" alt="Instagram" width="30" height="30"></a>
-<a href="https://www.youtube.com/@vertigorobotics1943"><img src="images/youtube.png" alt="Youtube" width="30" height="30"></a>
-<a href="https://github.com/vertigo18523"><img src="images/github.png" alt="GitHub" width="30" height="30"></a>
+<a href="https://www.tiktok.com/@vertigorobotics"><img src="images/tiktok.png" alt="TikTok" width="45" height="45"></a>
+<a href="https://www.instagram.com/vertigorobotics/"><img src="images/instagram.png" alt="Instagram" width="45" height="45"></a>
+<a href="https://www.youtube.com/@vertigorobotics1943"><img src="images/youtube.png" alt="Youtube" width="45" height="45"></a>
+<a href="https://github.com/vertigo18523"><img src="images/github.png" alt="GitHub" width="45" height="45"></a>
 
 </div>
 
